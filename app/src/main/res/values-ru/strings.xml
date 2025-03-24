@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_skip">Пропустить</string>
+    <string name="tittle_correct">Правильно!</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="tittle_wrong">Неверно!</string>
+</resources>
